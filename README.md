@@ -88,7 +88,7 @@ const uttam = {
   ----
 
   <br>
-  <a href="https://github.com/uttamvyas">
+  <a href="https://github.com/uttamvs">
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=uttamvs&hide_border=true"/>  
   </a> 
 </p>
