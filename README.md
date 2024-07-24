@@ -14,7 +14,7 @@ const uttam = {
     askMeAbout: ["WebDev", "Tech", "Gaming"],
     technologies: {
         backEnd: {
-            js: [".NET", ".NET Core"],
+            dotNET: [".NET", ".NET Core"],
         },
         devOps: ["Azure", "Docker🐳"],
         databases: ["MSSQL", "MySql", "sqlite"],
@@ -43,7 +43,6 @@ const uttam = {
 ### 🧩 Libraries & Framework
 
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -93,12 +92,6 @@ const uttam = {
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=uvcreation&hide_border=true"/>  
   </a> 
 </p>
-
-## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uvcreation) || [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/uvcreation)
-
-or give some ♥ on [mail](mailto:uttamvs031@gmail.com) .
-
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=uttamvs/uttamvs)
