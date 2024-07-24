@@ -94,7 +94,4 @@ const uttam = {
 </p>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=uttamvs-rp/uttamvs-rp)
-
-
  
