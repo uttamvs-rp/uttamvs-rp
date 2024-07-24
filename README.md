@@ -79,22 +79,22 @@ const uttam = {
 
 <p>
   <br>
-  <a href="https://github.com/uttamvs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uttamvs&show_icons=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=uttamvs&hide_border=true&layout=compact" />
+  <a href="https://github.com/uttamvs-rp">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uttamvs-rp&show_icons=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=uttamvs-rp&hide_border=true&layout=compact" />
   </a>
   <br>
 
   ----
 
   <br>
-  <a href="https://github.com/uttamvs">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=uttamvs&hide_border=true"/>  
+  <a href="https://github.com/uttamvs-rp">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=uttamvs-rp&hide_border=true"/>  
   </a> 
 </p>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=uttamvs/uttamvs)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=uttamvs-rp/uttamvs-rp)
 
 
  
